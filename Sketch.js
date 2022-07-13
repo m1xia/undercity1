@@ -120,10 +120,6 @@ strokeWeight (3);
 fill(0, 170);
   rect (-5,0, 355, windowHeight);
 
-  frameRate(1);
-  tint (rgbColor);
-image(eye, random(windowWidth), random(windowHeight), 80, 50);
-  
   
   noTint ();
 image (hueso, -5,0, 355, windowHeight);
