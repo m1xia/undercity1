@@ -79,12 +79,12 @@ a.style('font-size', '22px');
 a.style('color', 'red');
 
 slider = createSlider(50, 300, 100);
-slider.position(1100, 580);
+slider.position(1100, 600);
 slider.style('width', '300px');
 
 
 txtInput = createInput('????');
-txtInput. position(1300, 530);
+txtInput. position(1300, 640);
 txtInput.size(200);
 txtInput.style('color', 'red');
 
