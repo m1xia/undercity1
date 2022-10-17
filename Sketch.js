@@ -343,7 +343,7 @@ for(let y = 0; y<=50; y +=7){
   valSlider = slider.value();
   txt = txtInput.value();
   textSize(valSlider); 
-  text(txt, 1140, 800);
+  text(txt, 840, 420);
 
   
  
