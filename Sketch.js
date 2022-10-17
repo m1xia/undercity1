@@ -74,24 +74,24 @@ textFont('Rubik Glitch');
 
 
 a = createA('https://www.instagram.com/mile.xia_/', 'MILEXIA');
-a.position(1500, 450);
+a.position(1400, 450);
 a.style('font-size', '22px');
 a.style('color', 'red');
 
 slider = createSlider(50, 300, 100);
-slider.position(1300, 580);
+slider.position(1100, 580);
 slider.style('width', '300px');
 
 
 txtInput = createInput('????');
-txtInput. position(1300, 600);
+txtInput. position(1300, 530);
 txtInput.size(200);
 txtInput.style('color', 'red');
 
 
 
 button = createButton('click me');
-button.position(1550, 300);
+button.position(1470, 300);
 button.mousePressed(cambiarColor);
 
 r= color (255, 0, 0);
